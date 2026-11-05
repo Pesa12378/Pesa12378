@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Publio
 
-<!--
-**Pesa12378/Pesa12378** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software developer at the Superior Audit Office of the State of Tamaulipas (Mexico). I work on **applied AI, computer vision, and large-scale data systems**, as well as IoT with machine learning.
 
-Here are some ideas to get you started:
+### What I've built
+- **Large-scale document search**: indexed 70M+ files (~60 TB) with Elasticsearch + PostgreSQL, plus GPU OCR over ~41M PDFs.
+- **Payment receipt detector**: desktop app with YOLO11 + RapidOCR. 12× faster review and 99.3% detection accuracy.
+- **VLM-based document verification**: Qwen3-VL / Gemma via vLLM at 124 pages/s, for ~84,000 PDFs per year.
+- **Vitapet DS**: IoT cattle collar (ESP32 + TinyML + LoRa) for early disease detection.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Stack
+`Python` `Elasticsearch` `PostgreSQL` `DuckDB` `ONNX Runtime` `YOLO11` `vLLM` `OpenCV` `Docker` `Linux` `ESP32` `C/C++`
+
+### Awards
+1st place, Major Rescue Robot category, RoboCup Mexican Robotics Tournament 2022
+
+[LinkedIn](https://linkedin.com/in/publiosalinas) · salinaspesa@gmail.com
